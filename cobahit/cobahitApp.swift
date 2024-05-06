@@ -12,6 +12,8 @@ struct cobahitApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
+            
         }
     }
 }
